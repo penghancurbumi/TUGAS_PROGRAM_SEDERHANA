@@ -1,7 +1,3 @@
-var tahunlahir = prompt("masukan tahun :")
-var umur= new Date().getFullYear()- tahunlahir
-console.log(` umur kalian sekarang adalah ${umur} tahun`)
-
 // keliling lingkaran
 const jari = prompt("masukan jari jari :")
 const keliling =2*Math.PI*jari
